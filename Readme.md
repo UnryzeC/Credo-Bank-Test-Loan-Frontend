@@ -1,4 +1,4 @@
-# Loan Platform
+# Credo Bank Test Loan Frontend
 ## Basic Application Structure
 
 Applications that target a single toolkit will have the following structure.
