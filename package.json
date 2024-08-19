@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@sencha/ext-classic-runtime": "^7.5.0"
+  }
+}
